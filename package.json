@@ -1,0 +1,26 @@
+{
+  "name": "simple-node-project",
+  "version": "1.0.0",
+  "description": "A simple Node.js project for beginners to learn how to run a project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElianPena1/Simple-node-project.git"
+  },
+  "keywords": [
+    "node",
+    "beginner",
+    "starter",
+    "tutorial"
+  ],
+  "author": "Elian Pena",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ElianPena1/Simple-node-project/issues"
+  },
+  "homepage": "https://github.com/ElianPena1/Simple-node-project#readme"
+}
